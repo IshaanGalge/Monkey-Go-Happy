@@ -1,2 +1,0 @@
-# Monkey-Go-Happy
-hello
